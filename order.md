@@ -1,35 +1,35 @@
-1. Tools Setup
-1. File / New / Backend
-1. EF Model
-   * Core
-   * Session Result
-	 * Entity Object
-1. Build all API controllers
-1. Validation attribute to prevent overlapping sessions in a track
+1. Configuración de herramientas
+1. Archivo / Nuevo / Backend
+1. Modelo EF
+    * Core
+    * Resultado de la sesión
+* Objeto de entidad
+1. Construye todos los controladores API
+1. Atributo de validación para evitar la superposición de sesiones en una pista
 1. Swashbuckle
-1. Add Front End, Render Agenda (anonymous)
-1. Add front end models entities
-1. Add Auth for Admin
-   * Every session has an edit link
-   * Every track has an add session
-1. Attendee - sign in with Twitter and favorite sessions
-1. Caching on front end
+1. Agregar Front End, Render Agenda (anónimo)
+1. Agregar entidades de modelos front-end
+1. Agregar autenticación para administrador
+    * Cada sesión tiene un enlace de edición
+    * Cada pista tiene una sesión de agregar
+1. Asistente: inicie sesión con Twitter y sesiones favoritas
+1. Almacenamiento en caché en la parte frontal
 1. Bundler.Core https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification
 1. Azure
-  1. Publishing
-  1. App Insights
-  1. Diagnostics
+   1. Publicación
+   1. Información de la aplicación
+   1. Diagnóstico
 
-Day 1: Get it functional
-Day 2: Make it cool
+Día 1: hazlo funcional
+Día 2: hazlo genial
 
-React front end - show the data
+Reaccionar frente - mostrar los datos
 
-Todo: 
-Who covers which part
+Que hacer:
+Quién cubre qué parte
 
-David: Backend
-David: Auth (Twitter is done, will add Google)
-Damian: Public and Admin views 
-Jon: Seed data, markdown
-Jon: SPA with React
+David: backend
+David: Auth (Twitter está hecho, agregará Google)
+Damian: vistas públicas y administrativas
+Jon: datos de semillas, rebajas
+Jon: SPA con React

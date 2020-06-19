@@ -1,35 +1,35 @@
-# ASP.NET Core - App Building Workshop
+# ASP.NET Core - Taller de creación de aplicaciones
 
-[![Build Status](https://dev.azure.com/dotnet/AspNetCoreWorkshop/_apis/build/status/ASP.NET%20Workshop-ASP.NET%20Core%203.x?branchName=master)](https://dev.azure.com/dotnet/AspNetCoreWorkshop/_build/latest?definitionId=71&branchName=master)
+[! [Estado de compilación](https://dev.azure.com/dotnet/AspNetCoreWorkshop/_apis/build/status/ASP.NET%20Workshop-ASP.NET%20Core%203.x?branchName=master)] (https : //dev.azure.com/dotnet/AspNetCoreWorkshop/_build/latest? definitionId = 71 & branchName = master)
 
-[BackEnd Web API](https://aspnetcorews-backend.azurewebsites.net) | [FrontEnd Web App](https://aspnetcorews-frontend.azurewebsites.net)
+[API web de BackEnd](https://aspnetcorews-backend.azurewebsites.net) | [Aplicación web de FrontEnd] (https://aspnetcorews-frontend.azurewebsites.net)
 
-## Setup
+## Preparar
 
-[Download](https://www.microsoft.com/net/download) and install the .NET Core SDK and Visual Studio.
+[Descargar](https://www.microsoft.com/net/download) e instalar .NET Core SDK y Visual Studio.
 
-> Note: When installing Visual Studio you only need to install the `ASP.NET and web development` workload.
+> Nota: Al instalar Visual Studio, solo necesita instalar la carga de trabajo `ASP.NET y desarrollo web`.
 
-If you have issues downloading the installers we may have USB sticks with offline installers for you to use.
+Si tiene problemas para descargar los instaladores, es posible que tengamos memorias USB con instaladores fuera de línea para su uso.
 
-## What you'll be building
-In this workshop, you'll learn by building a full-featured ASP.NET Core application from scratch. We'll start from File/ New and build up to an API back-end application, a web front-end application, and a common library for shared data transfer objects using .NET Standard.
+## Lo que vas a construir
+En este taller, aprenderá construyendo una aplicación ASP.NET Core con todas las funciones desde cero. Comenzaremos desde Archivo / Nuevo y crearemos una aplicación API de back-end, una aplicación web front-end y una biblioteca común para objetos de transferencia de datos compartidos usando .NET Standard.
 
-### Application Architecture
-![Architecture Diagram](/docs/images/ConferencePlannerArchitectureDiagram.svg)
+### Arquitectura de aplicaciones
+! [Diagrama de arquitectura](/docs/images/ConferencePlannerArchitectureDiagram.svg)
 
-### Database Schema
-![Database Schema Diagram](/docs/conference-planner-db-diagram.png)
+### Esquema de base de datos
+! [Diagrama de esquema de la base de datos](/docs/conference-planner-db-diagram.png)
 
-## Sessions
+## Sesiones
 
-| Session | Topics |
+| Sesión | Temas |
 | ----- | ---- |
-| [Session #1](/docs/1.%20Create%20BackEnd%20API%20project.md) | Build the back-end API with basic EF model |
-| [Session #2](/docs/2.%20Build%20out%20BackEnd%20and%20Refactor.md) | Finish the back-end API and EF model, refactor into view models |  |
-| [Session #3](/docs/3.%20Add%20front-end%2C%20render%20agenda%2C%20set%20up%20front-end%20models.md) | Add front-end, render agenda, set up front-end models |
-| [Session #4](/docs/4.%20Add%20auth%20features.md) | Add authentication, add admin policy, allow editing sessions, users can sign-in with Identity, custom auth tag helper |
-| [Session #5](/docs/5.%20Add%20personal%20agenda.md) | Add user association and personal agenda |
-| [Session #6](docs/6.%20Production%20Readiness%20and%20Deployment.md) | Deployment, Azure and other production environments, configuring environments, diagnostics |
-| [Session #7](/docs/7.%20Challenges.md) | Challenges |
-| [Session #8](/docs/8.%20SPA%20FrontEnd.md) | SPA front-end |
+| [Sesión #1](/docs/1.%20Create%20BackEnd%20API%20project.md) | Cree la API de fondo con el modelo EF básico |
+| [Sesión #2](/docs/2.%20Build%20out%20BackEnd%20and%20Refactor.md) | Finalice el API de back-end y el modelo EF, refactorice los modelos de vista | El |
+| [Sesión #3]​​(/docs/3.%20Add%20front-end%2C%20render%20agenda%2C%20set%20up%20front-end%20models.md) | Agregue front-end, render agenda, configure modelos front-end |
+| [Sesión #4](/docs/4.%20Add%20auth%20features.md) | Agregue autenticación, agregue política de administración, permita sesiones de edición, los usuarios pueden iniciar sesión con Identity, ayudante de etiqueta de autenticación personalizada |
+| [Sesión #5](/docs/5.%20Add%20personal%20agenda.md) | Agregar asociación de usuarios y agenda personal |
+| [Sesión #6](docs/6.%20Production%20Readiness%20and%20Deployment.md) | Implementación, Azure y otros entornos de producción, entornos de configuración, diagnósticos |
+| [Sesión #7](/docs/7.%20Challenges.md) | Desafíos |
+| [Sesión #8](/docs/8.%20SPA%20FrontEnd.md) | SPA front-end |
