@@ -1,25 +1,27 @@
 # ASP.NET Core - Taller de creación de aplicaciones
 
-[! [Estado de compilación](https://dev.azure.com/dotnet/AspNetCoreWorkshop/_apis/build/status/ASP.NET%20Workshop-ASP.NET%20Core%203.x?branchName=master)] (https : //dev.azure.com/dotnet/AspNetCoreWorkshop/_build/latest? definitionId = 71 & branchName = master)
+[! [Estado de compilación](https://dev.azure.com/dotnet/AspNetCoreWorkshop/_apis/build/status/ASP.NET%20Workshop-ASP.NET%20Core%203.x?branchName=master)](https : //dev.azure.com/dotnet/AspNetCoreWorkshop/_build/latest? definitionId = 71 & branchName = master)
 
-[API web de BackEnd](https://aspnetcorews-backend.azurewebsites.net) | [Aplicación web de FrontEnd] (https://aspnetcorews-frontend.azurewebsites.net)
+[API web de BackEnd](https://aspnetcorews-backend.azurewebsites.net) | [Aplicación web de FrontEnd](https://aspnetcorews-frontend.azurewebsites.net)
 
 ## Preparar
 
-[Descargar](https://www.microsoft.com/net/download) e instalar .NET Core SDK y Visual Studio.
+Instalar el SDK .NET Core  [Descargar](https://www.microsoft.com/net/download) 
 
-> Nota: Al instalar Visual Studio, solo necesita instalar la carga de trabajo `ASP.NET y desarrollo web`.
+[Visual Studio Code](https://code.visualstudio.com/)
 
-Si tiene problemas para descargar los instaladores, es posible que tengamos memorias USB con instaladores fuera de línea para su uso.
 
 ## Lo que vas a construir
-En este taller, aprenderá construyendo una aplicación ASP.NET Core con todas las funciones desde cero. Comenzaremos desde Archivo / Nuevo y crearemos una aplicación API de back-end, una aplicación web front-end y una biblioteca común para objetos de transferencia de datos compartidos usando .NET Standard.
 
-### Arquitectura de aplicaciones
-! [Diagrama de arquitectura](/docs/images/ConferencePlannerArchitectureDiagram.svg)
+En este taller, aprenderá construyendo una aplicación ASP.NET Core con todas las funciones desde cero. Comenzaremos desde cero y crearemos una aplicación API de back-end, una aplicación web front-end y una biblioteca común para objetos de transferencia de datos compartidos usando .NET Standard.
 
-### Esquema de base de datos
-! [Diagrama de esquema de la base de datos](/docs/conference-planner-db-diagram.png)
+## Arquitectura de la aplicación
+
+![Diagrama de arquitectura](/docs/images/ConferencePlannerArchitectureDiagram.svg)
+
+## Esquema de base de datos
+
+![Diagrama de esquema de la base de datos](/docs/conference-planner-db-diagram.png)
 
 ## Sesiones
 
