@@ -6,14 +6,14 @@
 
 ## Preparar
 
-Instalar el SDK .NET Core  [Descargar](https://www.microsoft.com/net/download) 
-
-[Visual Studio Code](https://code.visualstudio.com/)
+0. [GIT](https://git-scm.com/)
+1. Instalar el SDK .NET Core  [Descargar](https://www.microsoft.com/net/download) 
+3. [Visual Studio Code](https://code.visualstudio.com/)
 
 
 ## Lo que vas a construir
 
-En este taller, aprenderá construyendo una aplicación ASP.NET Core con todas las funciones desde cero. Comenzaremos desde cero y crearemos una aplicación API de back-end, una aplicación web front-end y una biblioteca común para objetos de transferencia de datos compartidos usando .NET Standard.
+En este taller, aprenderás a contruir una aplicación ASP.NET Core completamente funcional. Comenzaremos desde cero y crearemos una aplicación API de back-end, una aplicación web front-end y una biblioteca común para objetos de transferencia de datos compartidos usando .NET Standard.
 
 ## Arquitectura de la aplicación
 
@@ -21,7 +21,7 @@ En este taller, aprenderá construyendo una aplicación ASP.NET Core con todas l
 
 ## Esquema de base de datos
 
-![Diagrama de esquema de la base de datos](/docs/conference-planner-db-diagram.png)
+![Diagrama del esquema de la base de datos](/docs/conference-planner-db-diagram.png)
 
 ## Sesiones
 
